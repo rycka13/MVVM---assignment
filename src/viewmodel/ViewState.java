@@ -28,4 +28,5 @@ public class ViewState {
     public void setRemove(boolean remove) {
         this.remove = remove;
     }
+    public  void what
 }
