@@ -93,12 +93,10 @@ public class ListExerciseViewModel implements PropertyChangeListener {
                 for(int i = 0; i < list.size() ; i++){
                     if(evt.getOldValue().equals(list.get(i).getNumberProperty().get())){
                         list.remove(i);
-                        return;
                     }
                 }
             }
         });
     }
-//sdfghokjdfhfdsghfd
 
 }
