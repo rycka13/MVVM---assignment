@@ -97,6 +97,7 @@ public class ListExerciseViewModel implements PropertyChangeListener {
                 }
             }
         });
+        return;
     }
 
 }
